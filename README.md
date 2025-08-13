@@ -1,3 +1,3 @@
 # VisualStudio2022
-#donload : https://github.com/Hrapraiter/CRM---/releases
+#download releases : https://github.com/Hrapraiter/CRM---/releases
 # c++ and juce
