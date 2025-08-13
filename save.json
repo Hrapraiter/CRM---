@@ -1,0 +1,53 @@
+{
+	"section0" : {
+
+	"sectionName" : "молочная продукция",
+	
+
+		"itemName0" : "молоко 0.5л",
+		"itemPrice0" : 80.69,
+		"itemQuantity0" : 500
+, 
+
+		"itemName1" : "кефир",
+		"itemPrice1" : 60,
+		"itemQuantity1" : 200
+, 
+
+		"itemName2" : "йогурт клубничный",
+		"itemPrice2" : 39.99,
+		"itemQuantity2" : 700
+, 
+
+		"itemName3" : "йогурт с шариками",
+		"itemPrice3" : 78.99,
+		"itemQuantity3" : 940
+
+	},
+
+	"section1" : {
+
+	"sectionName" : "бытовая техника",
+	
+
+		"itemName0" : "микроволновая печь",
+		"itemPrice0" : 5670,
+		"itemQuantity0" : 40
+, 
+
+		"itemName1" : "миксер",
+		"itemPrice1" : 2400,
+		"itemQuantity1" : 50
+, 
+
+		"itemName2" : "чайник без сохранения тепла",
+		"itemPrice2" : 1900,
+		"itemQuantity2" : 90
+, 
+
+		"itemName3" : "чайник с сохранением тепла",
+		"itemPrice3" : 8000,
+		"itemQuantity3" : 30
+
+	}
+}
